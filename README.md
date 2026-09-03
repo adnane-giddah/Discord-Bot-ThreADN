@@ -5,7 +5,6 @@ A production-grade Discord bot whose core feature is **bulk thread creation**: g
 ## Requirements
 
 - **Node.js 22.5+** (this project uses Node's built-in `node:sqlite` module — no native compilation / Visual Studio Build Tools required, unlike most SQLite libraries).
-- A Discord application + bot token: https://discord.com/developers/applications
 
 ## Setup
 
